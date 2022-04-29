@@ -3,10 +3,7 @@ import { Link } from "react-router-dom";
 import logo from '../../images/logo.svg'
 
 const Nav = (props) => {
-
-    // <Link to="/">Home</Link>
-    // <Link to="/portfolio">Portfolio</Link>
-    // <Link to="/contact">Contact</Link>
+    
   return (
     <div className="navigation">
       <div className="container-fluid">
